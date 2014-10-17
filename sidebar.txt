@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yon:home|Door43 (yon)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yon|d43-yon repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yon/archive/master.zip|d43-yon.zip]]
+
+**Recent Changes**
+{{changes>ns = yon}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yon|Ethnologue data]]
+
